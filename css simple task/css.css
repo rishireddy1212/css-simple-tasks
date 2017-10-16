@@ -1,0 +1,25 @@
+.a {
+	border:1px solid grey;
+	height:100px;
+	width:500px;
+	background-color:lightgrey;
+	margin-left:320px;
+	margin-top:150px;
+}
+.b {
+	color:black;
+	background-color:red;
+    width:502px;
+	margin-left:320px;
+	margin-top:-80px;
+}
+.c {
+	color:black;
+	background-color:red;
+    width:502px;
+	margin-left:320px;
+	margin-top:15px;
+	opacity:0.2;
+}
+	
+	
